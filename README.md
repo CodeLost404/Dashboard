@@ -1,5 +1,4 @@
-> # SecurityBot
-> **#Monty404**
+> **#Monty**
 
 1. Install Docker
 2. Clone the Git repository
